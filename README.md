@@ -1,7 +1,3 @@
-Here’s a professional and clean `README.md` for your **Ledger Ease** finance management app:
-
----
-
 # 💼 Ledger Ease
 
 **Ledger Ease** is a smart and intuitive finance management app designed to help individuals and small businesses manage their income, expenses, and budgets with ease. Whether you're tracking personal expenses or business transactions, Ledger Ease ensures that your finances stay organized and accessible.
